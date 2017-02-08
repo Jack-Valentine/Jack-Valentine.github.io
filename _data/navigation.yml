@@ -1,6 +1,8 @@
 # main links
 main:
-  - title: "Development Post(Korean)"
+  - title: "About"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Development Post"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
