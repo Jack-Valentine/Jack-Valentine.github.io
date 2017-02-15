@@ -1,13 +1,15 @@
 # main links
 main:
   - title: "HOME"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /
   - title: "DEV POST"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /categories/
   - title: "TAGS"
     url: /tags/
   - title: "ABOUT"
     url: /about/
+  - title: "Pages"
+    url: /page-archive/
   #- title: "CONTACT"
   #    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
